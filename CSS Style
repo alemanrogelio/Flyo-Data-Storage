@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;600;700&display=swap');
+body{
+    margin: 0;
+    background-image: url(images/bg-desktop.svg);
+    color: white;
+}
