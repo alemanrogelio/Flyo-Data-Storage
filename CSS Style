@@ -1,6 +1,14 @@
 @import url('https://fonts.google.com/specimen/Raleway');
-body{
+.body{
     margin: 0;
     background-image: url(images/bg-desktop.svg);
     color: white;
+    background-color: hsl(229, 57%, 11%);
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+}
+
+#container{
+    width: 85%;
+    margin: auto;
 }
